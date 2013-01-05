@@ -5,4 +5,4 @@ Based on overshard / pinry.
 
 INCOMPLETED
 
-Only for learn purpose
+Only for learning purpose
