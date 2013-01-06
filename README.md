@@ -3,6 +3,6 @@ videopin
 
 Based on overshard / pinry.
 
-INCOMPLETED
+UNCOMPLETED
 
 Only for learning purpose
